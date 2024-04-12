@@ -1,0 +1,27 @@
+#background {
+    background-color: white;
+    color: rgb(0, 0, 0);
+}
+
+#logo {
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+#p-cabeca {
+    text-transform: initial;
+    text-align: center;
+    font-size: x-large;
+    color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 15px;
+}
+
+#video {
+    text-align: center;
+}
+
+#video1 {
+    border-radius: 10px 10px 10px 10px;
+}

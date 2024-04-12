@@ -1,0 +1,6 @@
+@import url(cabecalho.css);
+@import url(corpo.css);
+* {
+    margin: 0%;
+    padding: 0%;
+}

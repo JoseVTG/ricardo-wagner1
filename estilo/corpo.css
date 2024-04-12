@@ -1,0 +1,126 @@
+#secao1>h1 {
+    padding: 30px 0px 50px 20px;
+}
+
+#secao1>p {
+    padding: 20px 0px 30px 20px;
+    width: 650px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#secao2 {
+    background-color: aqua;
+}
+
+#secao2>h1 {
+    padding: 30px 0px 50px 20px;
+}
+
+#secao2>p {
+    padding: 20px 0px 30px 20px;
+    width: 650px;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#botao1 {
+    padding: 20px 0px 50px 20px;
+    background-color: aqua;
+}
+
+#botao1>button {
+    background-color: rgba(255, 255, 255, 0.377);
+    color: rgb(0, 0, 0);
+    padding: 20px 40px 20px 30px;
+    font-size: x-large;
+}
+
+#secao3>h1 {
+    padding: 30px 20px 30px 20px;
+    text-align: center;
+}
+
+#secao3>h2 {
+    padding: 20px 20px 50px 20px;
+    text-align: center;
+}
+
+#secao3>div {
+    width: 500px;
+    background-color: rgba(0, 0, 0, 0.192);
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border-radius: 10px 10px 10px 10px;
+}
+
+#secao3>div>h2 {
+    padding: 10px;
+}
+
+#secao3>p {
+    padding: 20px 0px 10px 0px;
+    text-align: center;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paraobjet {
+    font-size: x-small;
+}
+
+#valor {
+    width: 400px;
+    background-color: aqua;
+    margin: auto;
+}
+
+#valor>h1 {
+    text-align: center;
+}
+
+#valor>p {
+    text-align: center;
+}
+
+#secao4 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0px 40px 0px ;
+    background-color: black;
+}
+
+#caixa1 {
+    background-color: aqua;
+    text-align: center;
+    width: 200px;
+    border-radius: 0px 20px 0px 20px;
+    padding: 10px;
+}
+
+#caixa1>h1 {
+    padding: 4px 4px 10px 4px;
+}
+
+#caixa2 {
+    background-color: aqua;
+    text-align: center;
+    width: 300px;
+    border-radius: 0px 20px 0px 20px;
+}
+
+#caixa2>h1 {
+    padding: 10px 10px 20px 10px;
+}
+
+#caixa3 {
+    background-color: aqua;
+    text-align: center;
+    width: 200px;
+    border-radius: 0px 20px 0px 20px;
+}
+
+#caixa3>h1 {
+    padding: 10px 10px 20px 10px;
+}
